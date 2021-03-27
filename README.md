@@ -1,7 +1,7 @@
 # Citi - Bikesharing 
 Python Pandas, Tableau
 # Overview of the statistical analysis
-[link to dashboard](https://public.tableau.com/profile/yining.johnny.wang#!/vizhome/citibike_df/citi-bike-program?publish=yes)
+[link to dashboard](https://public.tableau.com/profile/yining.johnny.wang#!/vizhome/citibike_df/citi-bike-program?publish=yes)  
 The project processes datasets using the Python Pandas library and exports the clean data into Tableau for analysis. Data visualization is conducted for a bike trip analysis to convince investors that such a bike-sharing program in Des Moines is a solid business proposal. The analysis below is prepared to pitch to investors for consideration.  
 
 # Results
